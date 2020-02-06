@@ -1,0 +1,30 @@
+number count:  100
+time count:  21.693423986434937
+avg time per 100:  21.693423986434937
+number count:  200
+time count:  23.33596444129944
+avg time per 100:  22.514694213867188
+number count:  300
+time count:  18.742003440856934
+avg time per 100:  21.25713062286377
+number count:  400
+time count:  17.392462730407715
+avg time per 100:  20.290963649749756
+number count:  500
+time count:  18.928363800048828
+avg time per 100:  20.01844367980957
+number count:  600
+time count:  18.940455198287964
+avg time per 100:  19.8387789328893
+number count:  700
+time count:  18.062096118927002
+avg time per 100:  19.584967102323258
+number count:  800
+time count:  20.801382780075073
+avg time per 100:  19.737019062042236
+number count:  900
+time count:  16.37657403945923
+avg time per 100:  19.363636281755234
+number count:  1000
+time count:  15.897150754928589
+avg time per 100:  19.01698772907257
